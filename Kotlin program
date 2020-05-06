@@ -1,0 +1,16 @@
+fun main(args: Array<String>) { 
+
+ println("Enter Your Name: ") 
+     val name = readLine()!!
+ 
+
+        print("Enter Your age: ") 
+ val age = readLine()!!
+
+
+
+
+
+
+
+   }
